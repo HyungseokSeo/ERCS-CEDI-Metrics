@@ -2,7 +2,7 @@
 Emotion Recognition Confidence Score (ERCS) and Cross-Emotion Discrimination Index (CEDI)
 Implementation for "Bridging Emotional Intelligence and Deep Learning" paper
 
-Authors: [Your Names]
+Authors: Hyungseok. Seo
 License: MIT
 """
 
@@ -349,4 +349,5 @@ if __name__ == "__main__":
     
     print(f"\nAdditional Calibration Metrics:")
     print(f"   Expected Calibration Error (ECE): {ece:.4f}")
+
     print(f"   Maximum Calibration Error (MCE): {mce:.4f}")
